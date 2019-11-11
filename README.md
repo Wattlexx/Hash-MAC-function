@@ -1,7 +1,1 @@
-# hash-v2
-
-A Clojure app to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A Clojure app that implements a hash function and a MAC function for my cryptography class.
